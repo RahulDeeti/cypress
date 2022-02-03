@@ -1,0 +1,9 @@
+{
+    "watchForFileChanges":true,
+    "defaultCommandTimeout":10000,
+    "chromeWebSecurity": false,
+    "env": {
+    "username": "Admin",
+    "password": ""
+  }
+}

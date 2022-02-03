@@ -1,0 +1,14 @@
+{
+  "name": "cypress-auto",
+  "version": "1.0.0",
+  "description": "Beginner testing using cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "author": "Rahul Deeti",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.3.1"
+  }
+}
